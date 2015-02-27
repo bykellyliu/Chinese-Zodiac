@@ -1,0 +1,19 @@
+body {
+	background-color: #b22222;
+	color: #FFFFFF;
+	font-family: "arial", "Sans Serif";
+}
+
+.form{
+	text-align: center;
+	width:350px; padding:10px;
+}
+
+.label{
+	padding:10px;
+}
+
+.title{
+	text-align: top-right;
+
+}
